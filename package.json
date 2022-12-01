@@ -3,7 +3,6 @@
 	"version": "7.1.1",
 	"description": "Parse and stringify URL query strings",
 	"license": "MIT",
-	"repository": "swipejobs/query-string",
 	"funding": "https://github.com/sponsors/sindresorhus",
 	"author": {
 		"name": "Sindre Sorhus",
@@ -16,7 +15,8 @@
 	"scripts": {
 		"benchmark": "node benchmark.js",
 		"test": "xo && ava && tsd",
-		"release": "semantic-release"
+		"release": "semantic-release",
+		"release-test": "semantic-release -d"
 	},
 	"files": [
 		"index.js",
