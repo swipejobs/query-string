@@ -56,6 +56,7 @@ const sem_slack = [
     notifyOnSuccess: true,
     notifyOnFail: true,
     markdownReleaseNotes: true,
+    packageName: "@swipejobs/query-string"
   },
 ];
 
