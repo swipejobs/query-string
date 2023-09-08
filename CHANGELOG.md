@@ -1,3 +1,10 @@
+## [7.1.4](https://github.com/swipejobs/query-string/compare/v7.1.3...v7.1.4) (2023-09-08)
+
+
+### Bug Fixes
+
+* migrate to new account - update semantic-release ([e2dceac](https://github.com/swipejobs/query-string/commit/e2dceac190e32015df33a7362dd658b124b18055))
+
 ## [7.1.3](https://github.com/swipejobs/query-string/compare/v7.1.2...v7.1.3) (2022-12-01)
 
 
