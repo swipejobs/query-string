@@ -1,3 +1,10 @@
+## [7.1.3](https://github.com/swipejobs/query-string/compare/v7.1.2...v7.1.3) (2022-12-01)
+
+
+### Bug Fixes
+
+* test to ignore semantic-release files ([86a714f](https://github.com/swipejobs/query-string/commit/86a714f3d9762fc1f9381408f097dce70bbd26e4))
+
 ## [7.1.2](https://github.com/swipejobs/query-string/compare/v7.1.1...v7.1.2) (2022-12-01)
 
 
