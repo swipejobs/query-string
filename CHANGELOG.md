@@ -1,3 +1,10 @@
+## [7.1.5](https://github.com/swipejobs/query-string/compare/v7.1.4...v7.1.5) (2023-09-13)
+
+
+### Bug Fixes
+
+* semantic-release sync config ([588d637](https://github.com/swipejobs/query-string/commit/588d6374d71a6ee672edce768965b33077c8ed27))
+
 ## [7.1.4](https://github.com/swipejobs/query-string/compare/v7.1.3...v7.1.4) (2023-09-08)
 
 
