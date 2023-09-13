@@ -36,14 +36,14 @@ const sem_npm = [
   '@semantic-release/npm',
   {
     npmPublish: true,
-tarballDir: 'dist',
+tarballDir: "sync",
   },
 ];
 
 const sem_exec = [
   '@semantic-release/exec',
   {
-    successCmd: 'aws s3 sync --exclude "*" --include "*.tgz" ./dist/ s3://verda-mig-autosync-test/',
+    successCmd: 'aws s3 sync --exclude "*" --include "*.tgz" ./sync/ s3://verda-mig-autosync-test/',
   },
 ];
 
